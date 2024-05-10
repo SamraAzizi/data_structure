@@ -33,3 +33,17 @@ To use this program, follow these steps:
 2. Open the code in a C++ compatible IDE or text editor.
 3. Compile and run the code.
 
+## Operations
+
+### 1. Append Node
+   - Appends a new node to the end of the list.
+
+### 2. Prepend Node
+   - Prepends a new node to the beginning of the list.
+
+### 3. Insert Node After
+   - Inserts a new node after a specific node in the list.
+
+### 4. Delete Node By Key
+   - Deletes a node with a specified key from the list.
+
