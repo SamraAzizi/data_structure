@@ -47,3 +47,19 @@ To use this program, follow these steps:
 ### 4. Delete Node By Key
    - Deletes a node with a specified key from the list.
 
+### 5. Update Node By Key
+   - Updates the data of a node with a specified key.
+
+### 6. Print
+   - Prints the contents of the circular linked list.
+
+### 7. Clear Screen
+   - Clears the screen for better readability.
+
+## Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request for any improvements or additional features you'd like to add.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
