@@ -60,6 +60,3 @@ To use this program, follow these steps:
 
 Contributions are welcome! Feel free to open an issue or submit a pull request for any improvements or additional features you'd like to add.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
