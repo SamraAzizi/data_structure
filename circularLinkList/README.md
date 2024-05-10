@@ -17,3 +17,19 @@ A circular linked list is a variation of a linked list in which the last node po
 
 ## Features
 
+- Append a node to the end of the list.
+- Prepend a node to the beginning of the list.
+- Insert a node after a specific node in the list.
+- Delete a node by its unique key.
+- Update the data of a node by its key.
+- Print the contents of the circular linked list.
+- Clear the screen for better user experience.
+
+## How to Use
+
+To use this program, follow these steps:
+
+1. Clone or download the repository containing the code.
+2. Open the code in a C++ compatible IDE or text editor.
+3. Compile and run the code.
+
