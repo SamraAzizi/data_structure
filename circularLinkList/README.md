@@ -9,7 +9,7 @@ This C++ program implements a Circular Linked List data structure along with var
 - [How to Use](#how-to-use)
 - [Operations](#operations)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
