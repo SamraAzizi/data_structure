@@ -37,3 +37,16 @@ This C++ program implements a doubly linked list and provides various operations
 2. Run the executable.
 3. Choose the desired operation by entering the corresponding option number.
 4. Follow the prompts to perform the selected operation.
+5. Enter `0` to exit the program.
+
+## Options
+
+- `1`: Append a node.
+- `2`: Prepend a node.
+- `3`: Insert a node after a particular node.
+- `4`: Delete a node by its key.
+- `5`: Update the data of a node.
+- `6`: Print the list.
+- `7`: Clear the screen.
+- `0`: Exit the program.
+
