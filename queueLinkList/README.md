@@ -8,4 +8,18 @@ This is a simple implementation of a queue data structure in C++. The code provi
 - isEmpty: Check if the queue is empty.
 - isFull: Check if the queue is full.
 - Count: Count the number of elements in the queue.
+- Display: Display all elements of the queue.
+- Clear Screen: Clear the console screen.
 
+## Usage
+1. Compile the code in your C++ compiler.
+2. Run the executable.
+3. Follow the on-screen prompts to perform various queue operations.
+
+## Code Structure
+- The `queue` class encapsulates the queue data structure and its operations.
+- The `main` function demonstrates the usage of the queue class by providing a menu-driven interface to interact with the queue.
+
+## Compilation
+```bash
+g++ queue.cpp -o queue
