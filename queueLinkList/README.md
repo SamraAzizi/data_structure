@@ -31,3 +31,19 @@ To use this program, follow these steps:
 
 ### 2. Dequeue
    - Removes and returns the element from the front of the queue.
+
+### 3. isEmpty
+   - Checks if the queue is empty.
+
+### 4. isFull
+   - Checks if the queue is full.
+
+### 5. Count
+   - Counts the number of elements in the queue.
+
+### 6. Display
+   - Displays all elements of the queue.
+
+### 7. Clear Screen
+   - Clears the console screen for better readability.
+
