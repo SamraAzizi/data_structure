@@ -9,8 +9,6 @@ This C++ program implements a Circular Linked List data structure along with var
 - [How to Use](#how-to-use)
 - [Operations](#operations)
 
-
-
 ## Introduction
 
 A circular linked list is a variation of a linked list in which the last node points back to the first node. This creates a circular structure. In this implementation, each node contains two fields: a key and data. The key is used to uniquely identify each node.

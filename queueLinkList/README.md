@@ -1,6 +1,12 @@
 # Queue Implementation in C++
 
 This C++ program implements a basic queue data structure along with various operations such as enqueue, dequeue, check if the queue is empty or full, count the number of elements in the queue, and display the elements of the queue.
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [How to Use](#how-to-use)
+- [Operations](#operations)
 
 ## Introduction
 
