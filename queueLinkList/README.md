@@ -22,31 +22,3 @@ To use this program, follow these steps:
 
 1. Clone or download the repository containing the code.
 2. Open the code in a C++ compatible IDE or text editor.
-3. Compile and run the code.
-
-## Operations
-
-### 1. Enqueue
-   - Adds an element to the rear of the queue.
-
-### 2. Dequeue
-   - Removes and returns the element from the front of the queue.
-
-### 3. isEmpty
-   - Checks if the queue is empty.
-
-### 4. isFull
-   - Checks if the queue is full.
-
-### 5. Count
-   - Counts the number of elements in the queue.
-
-### 6. Display
-   - Displays all elements of the queue.
-
-### 7. Clear Screen
-   - Clears the console screen for better readability.
-
-## Contributors
-
-Contributions are welcome! Feel free to open an issue or submit a pull request for any improvements or additional features you'd like to add.
