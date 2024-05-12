@@ -22,3 +22,12 @@ To use this program, follow these steps:
 
 1. Clone or download the repository containing the code.
 2. Open the code in a C++ compatible IDE or text editor.
+3. Compile and run the code.
+
+## Operations
+
+### 1. Enqueue
+   - Adds an element to the rear of the queue.
+
+### 2. Dequeue
+   - Removes and returns the element from the front of the queue.
