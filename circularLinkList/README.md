@@ -8,7 +8,7 @@ This C++ program implements a Circular Linked List data structure along with var
 - [Features](#features)
 - [How to Use](#how-to-use)
 - [Operations](#operations)
-- [Contributing](#contributing)
+
 
 
 ## Introduction
@@ -56,7 +56,4 @@ To use this program, follow these steps:
 ### 7. Clear Screen
    - Clears the screen for better readability.
 
-## Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request for any improvements or additional features you'd like to add.
 
