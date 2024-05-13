@@ -4,3 +4,23 @@ This C++ program implements a singly linked list data structure along with vario
 
 ## Introduction
 
+A singly linked list is a linear data structure where each element in the list is stored in a node. Each node contains two fields: a key (to uniquely identify the node) and data. Each node also contains a pointer to the next node in the sequence.
+
+## Features
+
+- Append Node: Add a node to the end of the list.
+- Prepend Node: Add a node to the beginning of the list.
+- Insert Node After: Insert a node after a specific node in the list.
+- Delete Node By Key: Delete a node with a specified key from the list.
+- Update Node By Key: Update the data of a node with a specified key.
+- Print: Print the contents of the singly linked list.
+- Clear Screen: Clear the console screen for better user experience.
+
+## How to Use
+
+To use this program, follow these steps:
+
+1. Clone or download the repository containing the code.
+2. Open the code in a C++ compatible IDE or text editor.
+3. Compile and run the code.
+
