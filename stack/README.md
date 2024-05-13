@@ -28,3 +28,30 @@ To use this program, follow these steps:
 
 ## Operations
 
+### 1. Push
+   - Adds an element to the top of the stack.
+
+### 2. Pop
+   - Removes and returns the element from the top of the stack.
+
+### 3. isEmpty
+   - Checks if the stack is empty.
+
+### 4. isFull
+   - Checks if the stack is full.
+
+### 5. Peek
+   - Views the element at a specific position in the stack.
+
+### 6. Count
+   - Counts the number of elements in the stack.
+
+### 7. Change
+   - Changes the value at a specific position in the stack.
+
+### 8. Display
+   - Displays all elements of the stack.
+
+### 9. Clear Screen
+   - Clears the console screen for better readability.
+
