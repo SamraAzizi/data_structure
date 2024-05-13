@@ -1,6 +1,12 @@
 # Stack Implementation in C++
 
 This C++ program implements a stack data structure along with various operations such as push, pop, check if the stack is empty or full, peek at a specific position, count the number of elements in the stack, change the value at a specific position, and display the elements of the stack.
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [How to Use](#how-to-use)
+- [Operations](#operations)
 
 ## Introduction
 
