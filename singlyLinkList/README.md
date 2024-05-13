@@ -24,3 +24,29 @@ To use this program, follow these steps:
 2. Open the code in a C++ compatible IDE or text editor.
 3. Compile and run the code.
 
+## Operations
+
+### 1. Append Node
+   - Appends a new node to the end of the list.
+
+### 2. Prepend Node
+   - Prepends a new node to the beginning of the list.
+
+### 3. Insert Node After
+   - Inserts a new node after a specific node in the list.
+
+### 4. Delete Node By Key
+   - Deletes a node with a specified key from the list.
+
+### 5. Update Node By Key
+   - Updates the data of a node with a specified key.
+
+### 6. Print
+   - Prints the contents of the singly linked list.
+
+### 7. Clear Screen
+   - Clears the console screen for better readability.
+
+## Contributors
+
+Contributions are welcome! Feel free to open an issue or submit a pull request for any improvements or additional features you'd like to add.
